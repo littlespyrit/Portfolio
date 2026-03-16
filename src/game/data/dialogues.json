@@ -1,0 +1,288 @@
+{
+  "intro": [
+    {
+      "speaker": "trixx",
+      "text": "...Où est-ce que je suis ?"
+    },
+    {
+      "speaker": "trixx",
+      "text": "L'air est vicié. Des amalgames partout. C'est quoi cet endroit..."
+    },
+    {
+      "speaker": "trixx",
+      "text": "Les autres... je les ai perdus de vue. Comment j'ai atterri là ?"
+    },
+    {
+      "speaker": "trixx",
+      "text": "Bon. Pas le moment de paniquer. Faut que je trouve une sortie."
+    }
+  ],
+  "haine_pickup": [
+    {
+      "speaker": "trixx",
+      "text": "Cet amalgame a laissé tomber une essence de haine..."
+    },
+    {
+      "speaker": "trixx",
+      "text": "Je peux pas la laisser ici. Si elle reste, l'état de ce lieu empirera encore..."
+    },
+    {
+      "speaker": "trixx",
+      "text": "...Tant pis. Je la prends avec moi."
+    },
+    {
+      "speaker": "trixx",
+      "text": "Elle est froide. Je m'y habituerai pas."
+    }
+  ],
+  "ending_trixx": [
+    {
+      "speaker": "trixx",
+      "text": "...Je peux enfin rentrer chez moi."
+    }
+  ],
+  "zone1": {
+    "lines": [
+      {
+        "speaker": "trixx",
+        "text": "Hé. Toi. C'est quoi cet endroit ? Et toi, t'es qui ?"
+      },
+      {
+        "speaker": "morn",
+        "text": "... Je pourrais vous retourner la question, demoiselle..."
+      },
+      {
+        "speaker": "trixx",
+        "text": "Je suis paumée, aussi simple que ça... tu connaîtrais pas une sortie ? Ça grouille d'amalgames et d'esprits errants..."
+      },
+      {
+        "speaker": "morn",
+        "text": "Mmh... peut-être..."
+      },
+      {
+        "speaker": "trixx",
+        "text": "... Eh... sois plus cryptique, je comprendrai encore mieux... pas comme si le temps me manquait de toute façon..."
+      },
+      {
+        "speaker": "morn",
+        "text": "Je sens de l'essence de haine en toi... tu as réussi à abattre un amalgame ? Tu dois être puissante."
+      },
+      {
+        "speaker": "trixx",
+        "text": "Hmf, plutôt oui... pourquoi ?"
+      },
+      {
+        "speaker": "morn",
+        "text": "J'aimerais te proposer un échange de bons procédés."
+      },
+      {
+        "speaker": "morn",
+        "text": "Tu élimines les amalgames, tu m'apportes leur haine. En échange... je t'aide à trouver ton chemin dans ce dédale."
+      },
+      {
+        "speaker": "trixx",
+        "text": "...Deal. Je te trouve louche, mais j'allais les tuer de toute façon."
+      },
+      {
+        "speaker": "morn",
+        "text": "...Bien."
+      }
+    ],
+    "nextPrompt": "\"Je connais le chemin vers ta deuxième destination... tu me suis ?\""
+  },
+  "zone2": {
+    "lines": [
+      {
+        "speaker": "trixx",
+        "text": "...T'es encore là, toi. Comment t'as fait pour me dépasser ?!"
+      },
+      {
+        "speaker": "morn",
+        "text": "..."
+      },
+      {
+        "speaker": "trixx",
+        "text": "Sérieusement. J'étais là à courir dans tous les sens, à tuer des trucs, et toi t'apparais juste... là. Comme si t'avais pris un raccourci."
+      },
+      {
+        "speaker": "morn",
+        "text": "La haine."
+      },
+      {
+        "speaker": "trixx",
+        "text": "Quoi ?"
+      },
+      {
+        "speaker": "morn",
+        "text": "Tu en as d'autre ?"
+      },
+      {
+        "speaker": "trixx",
+        "text": "T'as même pas répondu à ma question ?!"
+      },
+      {
+        "speaker": "morn",
+        "text": "..."
+      },
+      {
+        "speaker": "trixx",
+        "text": "...Ok. Très bien. On joue comme ça."
+      }
+    ],
+    "nextPrompt": "\"Zone 3. Tu viens.\""
+  },
+  "zone3": {
+    "lines": [
+      {
+        "speaker": "morn",
+        "text": "Hey. Si c'est pas ma collaboratrice préférée."
+      },
+      {
+        "speaker": "trixx",
+        "text": "...T'es sérieux ?"
+      },
+      {
+        "speaker": "morn",
+        "text": "Quoi ? Je peux pas être content de te voir ? T'es la seule ici, mais c'est pas grave, ça compte quand même."
+      },
+      {
+        "speaker": "trixx",
+        "text": "T'as dit... quatorze mots dans la zone d'avant. En comptant les silences."
+      },
+      {
+        "speaker": "morn",
+        "text": "J'étais concentré. Là je suis... plus détendu."
+      },
+      {
+        "speaker": "trixx",
+        "text": "C'est louche. T'es louche. Qu'est-ce qui se passe ?"
+      },
+      {
+        "speaker": "morn",
+        "text": "Rien. On avance bien, c'est tout. T'es plus forte qu'au départ."
+      },
+      {
+        "speaker": "morn",
+        "text": "Aussi... à force de passer 36 ans seul à parler aux murs, même pour un silencieux comme moi ça fait long. Je t'apprécie, gamine. T'as du caractère."
+      },
+      {
+        "speaker": "trixx",
+        "text": "Arrête de faire des compliments, ça me stresse encore plus."
+      },
+      {
+        "speaker": "morn",
+        "text": "Noté. Alors... tu me donnes ce que t'as ramassé, et on continue ?"
+      },
+      {
+        "speaker": "trixx",
+        "text": "...Ouais. Mais je t'ai pas pardonné pour les raccourcis."
+      }
+    ],
+    "nextPrompt": "\"Allez, encore un effort. On y est presque. Je t'emmène ?\""
+  },
+  "zone4": {
+    "lines": [
+      {
+        "speaker": "trixx",
+        "text": "........."
+      },
+      {
+        "speaker": "morn",
+        "text": "........."
+      },
+      {
+        "speaker": "trixx",
+        "text": "Je le savais. Depuis le début. T'as attendu quoi pour te retourner contre moi ?"
+      },
+      {
+        "speaker": "morn",
+        "text": "Que t'aies fini le travail."
+      },
+      {
+        "speaker": "trixx",
+        "text": "..."
+      },
+      {
+        "speaker": "morn",
+        "text": "La haine que tu m'as apportée... je l'ai accumulée. Chaque essence. Je n'avais pas la force de le faire seul."
+      },
+      {
+        "speaker": "trixx",
+        "text": "Alors tout ça c'était..."
+      },
+      {
+        "speaker": "morn",
+        "text": "Un arrangement. Honnête, d'une certaine façon. Tu voulais sortir. Moi je voulais la haine. On a tous les deux eu ce qu'on voulait."
+      },
+      {
+        "speaker": "trixx",
+        "text": "Sauf que moi je savais pas ce que je construisais."
+      },
+      {
+        "speaker": "morn",
+        "text": "Non. Effectivement."
+      },
+      {
+        "speaker": "trixx",
+        "text": "La haine n'est pas une émotion que tu peux contrôler, marchand. Peu importe combien t'en accumules."
+      }
+    ],
+    "nextPrompt": null
+  },
+  "hole_confirm": [
+    {
+      "speaker": "trixx",
+      "text": "...Je sens quelque chose monter de là-dedans. Quelque chose de lourd."
+    },
+    {
+      "speaker": "trixx",
+      "text": "C'est pas de la peur. Enfin... pas que de la peur. C'est plus... une certitude que ça va pas être simple."
+    },
+    {
+      "speaker": "trixx",
+      "text": "Je devrais p'têtre me préparer avant d'y aller."
+    }
+  ],
+  "zone2_intro": [
+    {
+      "speaker": "trixx",
+      "text": "Eh... allez, c'est reparti."
+    },
+    {
+      "speaker": "trixx",
+      "text": "Il a disparu si vite. Il aurait pu m'accompagner au moins... c'est lui le guide ici."
+    },
+    {
+      "speaker": "trixx",
+      "text": "Bon. Il réapparaîtra sûrement quand ça l'arrange. Comme d'habitude."
+    }
+  ],
+  "zone3_intro": [
+    {
+      "speaker": "trixx",
+      "text": "Encore une zone. Il commence à me manquer, ce mystérieux marchand..."
+    },
+    {
+      "speaker": "trixx",
+      "text": "Non, j'ai pas dit ça."
+    },
+    {
+      "speaker": "trixx",
+      "text": "...J'ai pas dit ça."
+    }
+  ],
+  "zone4_intro": [
+    {
+      "speaker": "trixx",
+      "text": "Je sens quelque chose de différent ici. L'air est plus lourd."
+    },
+    {
+      "speaker": "trixx",
+      "text": "Morn m'a conduite jusqu'ici. Depuis le début."
+    },
+    {
+      "speaker": "trixx",
+      "text": "...Est-ce que j'aurais dû poser plus de questions ?"
+    }
+  ]
+}
